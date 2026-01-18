@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: #412567;
+    display: flex;
+    padding: 16px 200px;
+}
+.flex{
+    justify-content: space-between;
+    display: flex;
+}
+.btn{
+    border-radius:1000px;
+    color: white;
+    background-image: url(../assets/hero-circle.png);
+    background-position: center;
+    padding: 0 12px;
+}
