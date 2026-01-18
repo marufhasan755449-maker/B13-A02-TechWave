@@ -16,6 +16,9 @@ nav{
     border-radius:1000px;
     color: white;
     background-image: url(../assets/hero-circle.png);
-    background-position: center;
-    padding: 0 12px;
+    background-position:center;
+    padding: 5px 16px;
+    font-size: 16px;
+    font-weight: 500;
+
 }
