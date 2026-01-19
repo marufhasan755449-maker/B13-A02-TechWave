@@ -22,3 +22,44 @@ nav{
     font-weight: 500;
 
 }
+.benar{
+    background-image: url(../assets/hero-bg.png);
+    width: 1600px;
+    height: 760px;
+}
+.benar-img{
+    position: relative;
+    left: 740px;
+    top:200px;
+    z-index: 1;
+}
+.benar-bg{
+    position: relative;
+    left:625px;
+    bottom: 60px;
+}
+.benar-conteinar{
+    text-align: center;
+
+}
+.btn3{
+     border-radius:1000px;
+    color: white;
+    background-image: url(../assets/hero-circle.png);
+    background-position:center;
+    padding: 12px 20px;
+}
+.btn2{
+    padding: 8px 20px 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #00FF88;
+    border-radius: 10000px;
+    color: #00FF88;
+    width: 147px;
+    height: 44px;
+    margin-left: 5px;
+}
+.main-conteinar{
+    text-align: center;
+    justify-content: center;
+}
