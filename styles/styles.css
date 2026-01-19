@@ -60,6 +60,17 @@ nav{
     margin-left: 5px;
 }
 .main-conteinar{
+    background-color: #1A0B2E;
     text-align: center;
     justify-content: center;
+    padding:50px 200px;
+}
+.card-rating{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+.card-rating h1{
+    color: #00FF88;
+
 }
